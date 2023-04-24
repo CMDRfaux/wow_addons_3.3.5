@@ -1,0 +1,24 @@
+
+EveryQuestDBPC = nil
+EQ2DBPC = {
+	["profileKeys"] = {
+		["Layla - Enterprise"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+			["history"] = {
+				[141] = {
+					[922] = {
+						["status"] = 1,
+					},
+					[933] = {
+						["status"] = 0,
+					},
+					[483] = {
+						["status"] = 0,
+					},
+				},
+			},
+		},
+	},
+}

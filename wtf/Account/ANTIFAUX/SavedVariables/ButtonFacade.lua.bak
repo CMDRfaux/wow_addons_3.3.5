@@ -1,0 +1,11 @@
+
+ButtonFacadeDB = {
+	["profileKeys"] = {
+		["Archex - The Dominion"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Gloss"] = 0,
+		},
+	},
+}

@@ -1,0 +1,27 @@
+
+DecursiveDB = {
+	["class"] = {
+		["WARLOCK"] = {
+			["CureOrder"] = {
+				-12, -- [1]
+				-11, -- [2]
+				nil, -- [3]
+				-13, -- [4]
+				[32] = -16,
+				[16] = -15,
+				[8] = -14,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Archex - The Dominion"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["MainBarX"] = 682.6666988165692,
+			["MainBarY"] = -95.99999954248921,
+			["DebuffsFrame_y"] = -153.5999992679827,
+			["DebuffsFrame_x"] = 1024.000048224854,
+		},
+	},
+}

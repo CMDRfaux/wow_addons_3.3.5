@@ -1,0 +1,4 @@
+
+InspectEquipConfig = {
+	["showUnknown"] = true,
+}

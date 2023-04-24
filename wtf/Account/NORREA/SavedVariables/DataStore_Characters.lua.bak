@@ -1,0 +1,33 @@
+
+DataStore_CharactersDB = {
+	["profileKeys"] = {
+		["NorreaWOTLK - Enterprise"] = "NorreaWOTLK - Enterprise",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Enterprise.NorreaWOTLK"] = {
+				["XPMax"] = 1523800,
+				["played"] = 2977,
+				["guildRankName"] = "Initiate",
+				["isResting"] = 1,
+				["lastUpdate"] = 1635287991,
+				["class"] = "Priest",
+				["race"] = "Night Elf",
+				["level"] = 70,
+				["XP"] = 60988,
+				["RestXP"] = 2285700,
+				["money"] = 11397775,
+				["gender"] = 3,
+				["subZone"] = "Westguard Inn",
+				["zone"] = "Howling Fjord",
+				["guildRankIndex"] = 4,
+				["name"] = "NorreaWOTLK",
+				["faction"] = "Alliance",
+				["englishRace"] = "NightElf",
+				["guildName"] = "The Gang Plays WoW",
+				["lastLogoutTimestamp"] = 1635287991,
+				["englishClass"] = "PRIEST",
+			},
+		},
+	},
+}

@@ -1,0 +1,29 @@
+
+DataStore_CharactersDB = {
+	["profileKeys"] = {
+		["Geodra - Area 52 - Free-Pick"] = "Geodra - Area 52 - Free-Pick",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Area 52 - Free-Pick.Geodra"] = {
+				["XPMax"] = 400,
+				["played"] = 1,
+				["zone"] = "Dun Morogh",
+				["lastUpdate"] = 1650556422,
+				["class"] = "Hero",
+				["race"] = "Gnome",
+				["level"] = 1,
+				["XP"] = 0,
+				["RestXP"] = 0,
+				["money"] = 0,
+				["gender"] = 3,
+				["name"] = "Geodra",
+				["faction"] = "Alliance",
+				["englishRace"] = "Gnome",
+				["subZone"] = "Coldridge Valley",
+				["lastLogoutTimestamp"] = 1650556422,
+				["englishClass"] = "DRUID",
+			},
+		},
+	},
+}

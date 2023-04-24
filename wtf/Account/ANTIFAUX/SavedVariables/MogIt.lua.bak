@@ -1,0 +1,24 @@
+
+MogItDB = {
+	["profileKeys"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = "Default",
+	},
+	["global"] = {
+		["version"] = "3.3.2",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["y"] = 0,
+			["x"] = 0,
+		},
+	},
+}
+MogItWishlist = {
+	["profileKeys"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = "Thenthesis - Area 52 - Free-Pick",
+	},
+	["profiles"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = {
+		},
+	},
+}

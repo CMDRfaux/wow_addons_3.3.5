@@ -1,0 +1,17 @@
+
+TradeSkillMaster_AuctioningDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["NorreaWOTLK - Enterprise"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Enterprise"] = {
+			["player"] = {
+				["NorreaWOTLK"] = true,
+			},
+		},
+	},
+}

@@ -1,0 +1,43 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+	},
+	["ChatHistoryLog"] = {
+		{
+			"they ate mcnuggets all their life", -- [1]
+			"Bustedopen", -- [2]
+			"", -- [3]
+			"2. world", -- [4]
+			"Bustedopen", -- [5]
+			"", -- [6]
+			0, -- [7]
+			2, -- [8]
+			"World", -- [9]
+			0, -- [10]
+			357, -- [11]
+			"0x0000000000DC2C05", -- [12]
+			0, -- [13]
+			[51] = 1650328980,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Bustedopen",
+		}, -- [1]
+		{
+			"everything else too spicy", -- [1]
+			"Bustedopen", -- [2]
+			"", -- [3]
+			"2. world", -- [4]
+			"Bustedopen", -- [5]
+			"", -- [6]
+			0, -- [7]
+			2, -- [8]
+			"World", -- [9]
+			0, -- [10]
+			358, -- [11]
+			"0x0000000000DC2C05", -- [12]
+			0, -- [13]
+			[51] = 1650328982,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Bustedopen",
+		}, -- [2]
+	},
+}

@@ -1,0 +1,30 @@
+
+DataStore_CharactersDB = {
+	["profileKeys"] = {
+		["Dreezy - Enterprise"] = "Dreezy - Enterprise",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Enterprise.Dreezy"] = {
+				["XPMax"] = 0,
+				["played"] = 37148,
+				["isResting"] = 1,
+				["lastUpdate"] = 1628713463,
+				["class"] = "Death Knight",
+				["race"] = "Night Elf",
+				["level"] = 80,
+				["XP"] = 0,
+				["RestXP"] = 0,
+				["money"] = 5439542,
+				["gender"] = 3,
+				["subZone"] = "Dalaran",
+				["name"] = "Dreezy",
+				["faction"] = "Alliance",
+				["englishRace"] = "NightElf",
+				["zone"] = "Dalaran",
+				["lastLogoutTimestamp"] = 1628713463,
+				["englishClass"] = "DEATHKNIGHT",
+			},
+		},
+	},
+}

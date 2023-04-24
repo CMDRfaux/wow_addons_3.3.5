@@ -1,0 +1,188 @@
+MACRO 31 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Conflagrate
+/cast [mod:shift] Shadowburn
+END
+MACRO 24 " " INV_Misc_QuestionMark
+#showtooltip Icebound Fortitude
+/cast Blood Tap
+/cast Icebound Fortitude
+/use 13
+/use 14
+END
+MACRO 19 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Pestilence
+/cast [nomod] !Rune Strike
+/cast [mod:shift] Death Strike
+/cast [mod:shift] !Rune Strike
+END
+MACRO 21 " " INV_Misc_QuestionMark
+#showtooltip Icebound Fortitude
+#/use Noth's Special Brew
+/cast Icebound Fortitude 
+END
+MACRO 20 " " INV_Misc_QuestionMark
+#showtooltip Unbreakable Armor
+/cast Blood Tap
+/cast Unbreakable Armor
+/use 13
+/use 14
+END
+MACRO 22 " " INV_Misc_QuestionMark
+#showtooltip Death Pact
+/cast Raise Dead
+/cast Death Pact
+END
+MACRO 35 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Incinerate
+/cast [mod:shift] Shadow Bolt
+END
+MACRO 30 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Searing Pain
+/cast [mod:shift] Shadow Bolt
+END
+MACRO 7 "AoE" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Howling Blast
+/cast !Rune Strike
+/cast [mod:shift] Blood Boil
+END
+MACRO 10 "BloodStrikeRune" INV_Misc_QuestionMark
+#showtooltip
+/cast Blood Strike
+/cast !Rune Strike
+END
+MACRO 29 "cross" Ability_Iyyokuk_Bomb_Red
+/script SetRaidTarget("target",7);
+END
+MACRO 23 "CTC" ability_bastion_warrior
+/run DEFAULT_CHAT_FRAME:AddMessage("Need 102.4 combat table coverage. Currently at: "..string.format("%.2f", GetDodgeChance()+GetBlockChance()+GetParryChance() +5))
+END
+MACRO 1 "Decursive" INV_Misc_QuestionMark
+/script Dcr:Println('No spell available')
+END
+MACRO 4 "GetBuildID" INV_Misc_QuestionMark
+/run print((select(4, GetBuildInfo())));
+END
+MACRO 11 "Heal" INV_Misc_QuestionMark
+#showtooltip
+/use [nomod] Major Healthstone
+/use [mod:shift] Super Healing Potion
+END
+MACRO 9 "Kick" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Mind Freeze
+/cast [mod:shift] Strangulate
+END
+MACRO 12 "nameplates" 6bf_blackrock_nova
+/run SetCVar( "nameplateOverlapV", 1 )
+/run SetCVar( "nameplateOverlapH", 1 )
+END
+MACRO 17 "OFF" 70_inscription_deck_Immortality
+.gm off
+END
+MACRO 18 "ON" 70_inscription_deck_Hellfire
+.gm on
+END
+MACRO 26 "PalKick" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Hammer of Wrath
+/cast [mod:shift] Hammer of Justice
+END
+MACRO 27 "PalTaunt" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Hand of Reckoning
+/cast [mod:shift] Righteous Defense
+END
+MACRO 25 "PalUnDead" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Exorcism
+/cast [mod:shift] Holy Wrath
+END
+MACRO 38 "pet" Ability_Hunter_SwiftStrike
+/!dismount
+/startattack
+/petattack [@mouseover, exists, nodead, nomod][@target, exists, nodead, nomod]
+/petfollow [mod:shift]
+/cast [mod:shift] Execute
+/cast Sinister Strike
+END
+MACRO 5 "Pet" Achievement_Boss_PrincessTheradras
+#showtooltip Attack
+/petattack [@mouseover, exists, nodead, nomod][@target, exists, nodead, nomod]
+/petpassive [mod:shift]
+/cast !Rune Strike
+END
+MACRO 32 "Professions" ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2
+END
+MACRO 37 "Rare" 70_inscription_pigment_roseate
+/targetexact Morgaine the Sly
+/script SetRaidTargetIcon("target",8)
+END
+MACRO 14 "sham" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Lightning Shield
+/cast [mod:shift] Water Shield
+END
+MACRO 13 "sham" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Lightning Bolt
+/cast [mod:shift] Chain Lightning
+END
+MACRO 8 "SingleTar" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Frost Strike
+/cast [nomod] !Rune Strike
+/cast [mod:shift] Rune Strike
+END
+MACRO 28 "skull" Ability_Iyyokuk_Bomb_White
+/script SetRaidTarget("target",8);
+END
+MACRO 2 "SoulStone" INV_Misc_QuestionMark
+#showtooltip Create Soulstone
+/cast [mod:shift] Create Soulstone
+/use [nomod] Major Soulstone
+END
+MACRO 3 "TBCProf1" 70_inscription_glyph_demonhunter_major
+.setskill 171 300 375
+.setskill 164 300 375
+.setskill 333 300 375
+.setskill 202 300 375
+.setskill 182 300 375
+.setskill 773 300 375
+.setskill 755 300 375
+.setskill 165 300 375
+.setskill 186 300 375
+.setskill 393 300 375
+.setskill 197 300 375
+END
+MACRO 34 "TBCProf2" 70_inscription_glyph_demonhunter_minor
+.setskill 185 300 375
+.setskill 129 300 375
+.setskill 356 300 375
+END
+MACRO 41 "TSMAucBClick" INV_Misc_QuestionMark
+/click TSMAuctioningCancelButton
+/click TSMAuctioningPostButton
+END
+MACRO 36 "WOTLKProf1" 70_professions_scroll_03
+.setskill 171 375 450
+.setskill 164 375 450
+.setskill 333 375 450
+.setskill 202 375 450
+.setskill 182 375 450
+.setskill 773 375 450
+.setskill 755 375 450
+.setskill 165 375 450
+.setskill 186 375 450
+.setskill 393 375 450
+.setskill 197 375 450
+END
+MACRO 33 "WOTLKProf2" 8XP_VulperaFlute
+.setskill 185 375 450
+.setskill 129 375 450
+.setskill 356 375 450
+END

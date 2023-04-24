@@ -1,0 +1,821 @@
+
+TradeSkillMaster_CraftingDB = {
+	["global"] = {
+		["treeStatus"] = {
+			true, -- [1]
+			["1"] = true,
+		},
+	},
+	["profileKeys"] = {
+		["Mancy - Enterprise"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Inscription"] = {
+				["mats"] = {
+					[39469] = {
+						["name"] = "Moonglow Ink",
+						["cost"] = 5,
+					},
+					[39354] = {
+						["source"] = "vendor",
+						["name"] = "Light Parchment",
+						["cost"] = 5,
+					},
+					[37101] = {
+						["name"] = "Ivory Ink",
+						["cost"] = 5,
+					},
+					[39151] = {
+						["name"] = "Alabaster Pigment",
+						["cost"] = 5,
+					},
+				},
+				["crafts"] = {
+					[1181] = {
+						["mats"] = {
+							[37101] = 1,
+							[39354] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Scroll of Spirit",
+						["group"] = 12,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 48116,
+					},
+					[954] = {
+						["mats"] = {
+							[37101] = 2,
+							[39354] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Scroll of Strength",
+						["group"] = 12,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 58484,
+					},
+					[37118] = {
+						["mats"] = {
+							[39354] = 1,
+							[39469] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Scroll of Recall",
+						["group"] = 12,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 48248,
+					},
+					[3012] = {
+						["mats"] = {
+							[37101] = 2,
+							[39354] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Scroll of Agility",
+						["group"] = 12,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 58472,
+					},
+					[1180] = {
+						["mats"] = {
+							[37101] = 1,
+							[39354] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Scroll of Stamina",
+						["group"] = 12,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 45382,
+					},
+					[39469] = {
+						["mats"] = {
+							[39151] = 2,
+						},
+						["numMade"] = 1,
+						["name"] = "Moonglow Ink",
+						["group"] = 11,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 52843,
+					},
+					[38682] = {
+						["mats"] = {
+							[39469] = 1,
+							[39354] = 2,
+						},
+						["numMade"] = 2,
+						["name"] = "Armor Vellum",
+						["group"] = 14,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 52739,
+					},
+					[37101] = {
+						["mats"] = {
+							[39151] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Ivory Ink",
+						["group"] = 11,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 52738,
+					},
+					[955] = {
+						["mats"] = {
+							[37101] = 1,
+							[39354] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Scroll of Intellect",
+						["group"] = 12,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 48114,
+					},
+				},
+			},
+			["Leatherworking"] = {
+				["mats"] = {
+					[2934] = {
+						["name"] = "Ruined Leather Scraps",
+						["cost"] = 5,
+					},
+					[2318] = {
+						["name"] = "Light Leather",
+						["cost"] = 5,
+					},
+					[2320] = {
+						["name"] = "Coarse Thread",
+						["cost"] = 5,
+					},
+				},
+				["crafts"] = {
+					[7276] = {
+						["mats"] = {
+							[2318] = 2,
+							[2320] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Handstitched Leather Cloak",
+						["group"] = 1,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 9058,
+					},
+					[2302] = {
+						["mats"] = {
+							[2318] = 2,
+							[2320] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Handstitched Leather Boots",
+						["group"] = 3,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 2149,
+					},
+					[5957] = {
+						["mats"] = {
+							[2318] = 3,
+							[2320] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Handstitched Leather Vest",
+						["group"] = 2,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 7126,
+					},
+					[2304] = {
+						["mats"] = {
+							[2318] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Light Armor Kit",
+						["group"] = 11,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 2152,
+					},
+					[7277] = {
+						["mats"] = {
+							[2318] = 2,
+							[2320] = 3,
+						},
+						["numMade"] = 1,
+						["name"] = "Handstitched Leather Bracers",
+						["group"] = 9,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 9059,
+					},
+					[2318] = {
+						["mats"] = {
+							[2934] = 3,
+						},
+						["numMade"] = 1,
+						["name"] = "Light Leather",
+						["group"] = 12,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 2881,
+					},
+				},
+			},
+			["Engineering"] = {
+				["mats"] = {
+					[2880] = {
+						["source"] = "vendor",
+						["name"] = "Weak Flux",
+						["cost"] = 5,
+					},
+					[774] = {
+						["name"] = "Malachite",
+						["cost"] = 5,
+					},
+					[2589] = {
+						["name"] = "Linen Cloth",
+						["cost"] = 5,
+					},
+					[4399] = {
+						["source"] = "vendor",
+						["name"] = "Wooden Stock",
+						["cost"] = 5,
+					},
+					[4357] = {
+						["name"] = "Rough Blasting Powder",
+						["cost"] = 5,
+					},
+					[4359] = {
+						["name"] = "Handful of Copper Bolts",
+						["cost"] = 5,
+					},
+					[2840] = {
+						["name"] = "Copper Bar",
+						["cost"] = 5,
+					},
+					[4361] = {
+						["name"] = "Copper Tube",
+						["cost"] = 5,
+					},
+					[2835] = {
+						["name"] = "Rough Stone",
+						["cost"] = 5,
+					},
+				},
+				["crafts"] = {
+					[4359] = {
+						["mats"] = {
+							[2840] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Handful of Copper Bolts",
+						["group"] = 8,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 3922,
+					},
+					[4357] = {
+						["mats"] = {
+							[2835] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Rough Blasting Powder",
+						["group"] = 8,
+						["enabled"] = true,
+						["queued"] = -5,
+						["spellID"] = 3918,
+					},
+					[4358] = {
+						["mats"] = {
+							[4357] = 2,
+							[2589] = 1,
+						},
+						["numMade"] = 2,
+						["name"] = "Rough Dynamite",
+						["group"] = 5,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 3919,
+					},
+					[6219] = {
+						["mats"] = {
+							[2840] = 6,
+						},
+						["numMade"] = 1,
+						["name"] = "Arclight Spanner",
+						["group"] = 8,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 7430,
+					},
+					[4360] = {
+						["mats"] = {
+							[4359] = 1,
+							[2840] = 1,
+							[4357] = 2,
+							[2589] = 1,
+						},
+						["numMade"] = 2,
+						["name"] = "Rough Copper Bomb",
+						["group"] = 5,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 3923,
+					},
+					[4361] = {
+						["mats"] = {
+							[2840] = 2,
+							[2880] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Copper Tube",
+						["group"] = 8,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 3924,
+					},
+					[8067] = {
+						["mats"] = {
+							[4357] = 1,
+							[2840] = 1,
+						},
+						["numMade"] = 200,
+						["name"] = "Crafted Light Shot",
+						["group"] = 8,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 3920,
+					},
+					[4363] = {
+						["mats"] = {
+							[4359] = 2,
+							[2840] = 1,
+							[2589] = 2,
+						},
+						["numMade"] = 1,
+						["name"] = "Copper Modulator",
+						["group"] = 8,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 3926,
+					},
+					[4362] = {
+						["mats"] = {
+							[4359] = 1,
+							[4399] = 1,
+							[4361] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Rough Boomstick",
+						["group"] = 2,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 3925,
+					},
+					[4405] = {
+						["mats"] = {
+							[4359] = 1,
+							[774] = 1,
+							[4361] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Crude Scope",
+						["group"] = 3,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 3977,
+					},
+				},
+			},
+			["craftHistory"] = {
+				[3918] = 5,
+				[2663] = 36,
+			},
+			["Cooking"] = {
+				["mats"] = {
+					[6889] = {
+						["name"] = "Small Egg",
+						["cost"] = 5,
+					},
+					[2672] = {
+						["name"] = "Stringy Wolf Meat",
+						["cost"] = 5,
+					},
+					[30817] = {
+						["name"] = "Simple Flour",
+						["cost"] = 5,
+					},
+					[769] = {
+						["name"] = "Chunk of Boar Meat",
+						["cost"] = 5,
+					},
+					[2678] = {
+						["name"] = "Mild Spices",
+						["cost"] = 5,
+					},
+				},
+				["crafts"] = {
+					[6888] = {
+						["mats"] = {
+							[6889] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Herb Baked Egg",
+						["group"] = 1,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 8604,
+					},
+					[2681] = {
+						["mats"] = {
+							[769] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Roasted Boar Meat",
+						["group"] = 1,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 2540,
+					},
+					[30816] = {
+						["mats"] = {
+							[30817] = 1,
+							[2678] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Spice Bread",
+						["group"] = 1,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 37836,
+					},
+					[2679] = {
+						["mats"] = {
+							[2672] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Charred Wolf Meat",
+						["group"] = 1,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 2538,
+					},
+				},
+			},
+			["Tailoring"] = {
+				["mats"] = {
+					[2589] = {
+						["name"] = "Linen Cloth",
+						["cost"] = 5,
+					},
+					[2996] = {
+						["name"] = "Bolt of Linen Cloth",
+						["cost"] = 5,
+					},
+					[2320] = {
+						["name"] = "Coarse Thread",
+						["cost"] = 5,
+					},
+					[2324] = {
+						["name"] = "Bleach",
+						["cost"] = 5,
+					},
+				},
+				["crafts"] = {
+					[2576] = {
+						["mats"] = {
+							[2996] = 1,
+							[2320] = 1,
+							[2324] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "White Linen Shirt",
+						["group"] = 13,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 2393,
+					},
+					[2570] = {
+						["mats"] = {
+							[2996] = 1,
+							[2320] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Linen Cloak",
+						["group"] = 1,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 2387,
+					},
+					[10045] = {
+						["mats"] = {
+							[2996] = 1,
+							[2320] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Simple Linen Pants",
+						["group"] = 6,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 12044,
+					},
+					[2996] = {
+						["mats"] = {
+							[2589] = 2,
+						},
+						["numMade"] = 1,
+						["name"] = "Bolt of Linen Cloth",
+						["group"] = 12,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 2963,
+					},
+					[4344] = {
+						["mats"] = {
+							[2996] = 1,
+							[2320] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Brown Linen Shirt",
+						["group"] = 13,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 3915,
+					},
+				},
+			},
+			["Blacksmithing"] = {
+				["mats"] = {
+					[2589] = {
+						["name"] = "Linen Cloth",
+						["cost"] = 5,
+					},
+					[2840] = {
+						["name"] = "Copper Bar",
+						["cost"] = 5,
+					},
+					[2835] = {
+						["name"] = "Rough Stone",
+						["cost"] = 5,
+					},
+				},
+				["crafts"] = {
+					[2853] = {
+						["mats"] = {
+							[2840] = 2,
+						},
+						["numMade"] = 1,
+						["name"] = "Copper Bracers",
+						["group"] = 10,
+						["enabled"] = true,
+						["queued"] = -36,
+						["spellID"] = 2663,
+					},
+					[3239] = {
+						["mats"] = {
+							[2835] = 1,
+							[2589] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Rough Weightstone",
+						["group"] = 15,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 3115,
+					},
+					[2862] = {
+						["mats"] = {
+							[2835] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Rough Sharpening Stone",
+						["group"] = 15,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 2660,
+					},
+					[2852] = {
+						["mats"] = {
+							[2840] = 4,
+						},
+						["numMade"] = 1,
+						["name"] = "Copper Chain Pants",
+						["group"] = 6,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 2662,
+					},
+					[10421] = {
+						["mats"] = {
+							[2840] = 4,
+						},
+						["numMade"] = 1,
+						["name"] = "Rough Copper Vest",
+						["group"] = 2,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 12260,
+					},
+				},
+			},
+			["Alchemy"] = {
+				["mats"] = {
+					[3371] = {
+						["name"] = "Empty Vial",
+						["cost"] = 5,
+					},
+					[785] = {
+						["name"] = "Mageroyal",
+						["cost"] = 5,
+					},
+					[2447] = {
+						["name"] = "Peacebloom",
+						["cost"] = 5,
+					},
+					[765] = {
+						["name"] = "Silverleaf",
+						["cost"] = 5,
+					},
+					[2449] = {
+						["name"] = "Earthroot",
+						["cost"] = 5,
+					},
+				},
+				["crafts"] = {
+					[2454] = {
+						["mats"] = {
+							[765] = 1,
+							[2449] = 1,
+							[3371] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Elixir of Lion's Strength",
+						["group"] = 1,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 2329,
+					},
+					[2455] = {
+						["mats"] = {
+							[765] = 1,
+							[785] = 1,
+							[3371] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Minor Mana Potion",
+						["group"] = 2,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 2331,
+					},
+					[5997] = {
+						["mats"] = {
+							[765] = 2,
+							[3371] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Elixir of Minor Defense",
+						["group"] = 1,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 7183,
+					},
+					[118] = {
+						["mats"] = {
+							[3371] = 1,
+							[2447] = 1,
+							[765] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Minor Healing Potion",
+						["group"] = 2,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 2330,
+					},
+					[3382] = {
+						["mats"] = {
+							[2447] = 1,
+							[2449] = 2,
+							[3371] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Weak Troll's Blood Elixir",
+						["group"] = 1,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 3170,
+					},
+				},
+			},
+			["Jewelcrafting"] = {
+				["mats"] = {
+				},
+				["crafts"] = {
+				},
+			},
+			["Enchanting"] = {
+				["mats"] = {
+					[10940] = {
+						["name"] = "Strange Dust",
+						["cost"] = 5,
+					},
+					[38682] = {
+						["cost"] = 5,
+					},
+					[10938] = {
+						["name"] = "Lesser Magic Essence",
+						["cost"] = 5,
+					},
+					[6217] = {
+						["name"] = "Copper Rod",
+						["cost"] = 5,
+					},
+				},
+				["crafts"] = {
+					[38679] = {
+						["mats"] = {
+							[38682] = 1,
+							[10940] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Enchant Bracer - Minor Health",
+						["group"] = 3,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 7418,
+					},
+					[38768] = {
+						["mats"] = {
+							[10940] = 1,
+							[38682] = 1,
+							[10938] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Enchant Bracer - Minor Deflection",
+						["group"] = 3,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 7428,
+					},
+					[6218] = {
+						["mats"] = {
+							[10940] = 1,
+							[6217] = 1,
+							[10938] = 1,
+						},
+						["numMade"] = 1,
+						["name"] = "Runed Copper Rod",
+						["group"] = 10,
+						["enabled"] = true,
+						["queued"] = 0,
+						["spellID"] = 7421,
+					},
+				},
+			},
+			["playerProfessionInfo"] = {
+				["Inscription"] = {
+					["Mancy"] = 12,
+				},
+				["Blacksmithing"] = {
+					["Mancy"] = 7,
+				},
+				["Cooking"] = {
+					["Mancy"] = 5,
+				},
+				["Engineering"] = {
+					["Mancy"] = 16,
+				},
+				["Alchemy"] = {
+					["Mancy"] = 7,
+				},
+				["Leatherworking"] = {
+					["Mancy"] = 10,
+				},
+				["Tailoring"] = {
+					["Mancy"] = 8,
+				},
+				["Enchanting"] = {
+					["Mancy"] = 5,
+				},
+			},
+			["lastScan"] = {
+				["Inscription"] = nil --[[ inf ]],
+				["Blacksmithing"] = nil --[[ inf ]],
+				["Cooking"] = nil --[[ inf ]],
+				["Engineering"] = nil --[[ inf ]],
+				["Alchemy"] = nil --[[ inf ]],
+				["Leatherworking"] = nil --[[ inf ]],
+				["Tailoring"] = nil --[[ inf ]],
+				["Enchanting"] = nil --[[ inf ]],
+			},
+		},
+	},
+}

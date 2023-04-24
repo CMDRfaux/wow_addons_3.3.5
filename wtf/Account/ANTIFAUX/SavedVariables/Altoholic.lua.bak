@@ -1,0 +1,15 @@
+
+AltoholicDB = {
+	["profileKeys"] = {
+		["Mancy - Enterprise"] = "Mancy - Enterprise",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Enterprise.Mancy"] = {
+				["Friends"] = {
+					"Baeched", -- [1]
+				},
+			},
+		},
+	},
+}

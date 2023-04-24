@@ -1,0 +1,19 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Drez - Enterprise"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = {
+	["profileKeys"] = {
+		["Drez - Enterprise"] = "Drez - Enterprise",
+	},
+	["profiles"] = {
+		["Drez - Enterprise"] = {
+		},
+	},
+}

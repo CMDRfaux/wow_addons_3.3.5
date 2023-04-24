@@ -1,0 +1,7 @@
+SET showVKeyCastbar "0"
+SET flaggedTutorials "v##M##%##&##$##9##(##K##6##A##B"
+SET targetStatusText "1"
+SET statusTextPercentage "1"
+SET cameraDistanceMaxFactor "1"
+SET showItemLevel "1"
+SET showTutorials "0"

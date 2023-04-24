@@ -1,0 +1,12 @@
+
+CliqueDB = {
+	["char"] = {
+	},
+	["profileKeys"] = {
+		["Archex - The Dominion"] = "Archex - The Dominion",
+	},
+	["profiles"] = {
+		["Archex - The Dominion"] = {
+		},
+	},
+}

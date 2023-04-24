@@ -1,0 +1,19 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = {
+	["profileKeys"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = "Thenthesis - Area 52 - Free-Pick",
+	},
+	["profiles"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = {
+		},
+	},
+}

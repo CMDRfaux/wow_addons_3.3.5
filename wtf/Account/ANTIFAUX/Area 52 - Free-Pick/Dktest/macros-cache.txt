@@ -1,0 +1,6 @@
+MACRO 16777217 "die" WoW_Token01
+.die
+END
+MACRO 16777218 "norm" WoW_Token02
+.mod speed 1
+END

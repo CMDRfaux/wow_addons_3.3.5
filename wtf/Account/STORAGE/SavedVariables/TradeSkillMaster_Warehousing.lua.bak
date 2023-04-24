@@ -1,0 +1,14 @@
+
+TradeSkillMaster_WarehousingDB = {
+	["profileKeys"] = {
+		["Drez - Enterprise"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Enterprise"] = {
+			["PlayerBagState"] = {
+				[44253] = 1,
+				[42852] = 1,
+			},
+		},
+	},
+}

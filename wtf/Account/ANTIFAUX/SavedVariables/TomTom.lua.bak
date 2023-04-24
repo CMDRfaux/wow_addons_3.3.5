@@ -1,0 +1,19 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Archex - The Dominion"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = {
+	["profileKeys"] = {
+		["Archex - The Dominion"] = "Archex - The Dominion",
+	},
+	["profiles"] = {
+		["Archex - The Dominion"] = {
+		},
+	},
+}

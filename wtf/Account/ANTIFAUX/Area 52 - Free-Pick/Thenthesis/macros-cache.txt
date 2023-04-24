@@ -1,0 +1,5 @@
+MACRO 16777217 "totem" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Searing Totem
+/cast [mod:shift] Fire Nova
+END

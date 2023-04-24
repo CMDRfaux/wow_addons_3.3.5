@@ -1,0 +1,25 @@
+
+TradeSkillMaster_ItemTrackerDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Drez - Enterprise"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Enterprise"] = {
+			["characters"] = {
+				["Drez"] = {
+					["auctions"] = {
+					},
+					["bags"] = {
+						[33470] = 4,
+					},
+					["bank"] = {
+					},
+				},
+			},
+		},
+	},
+}

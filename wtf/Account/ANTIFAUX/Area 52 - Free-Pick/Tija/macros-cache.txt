@@ -1,0 +1,15 @@
+MACRO 16777219 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Lightning Bolt
+/cast [mod:shift] Chain Lightning
+END
+MACRO 16777218 "AOE" INV_Misc_QuestionMark
+#showtooltip
+/castsequence [nomod] reset=10 Magma Totem, Fire Nova
+/cast [mod:shift] Fire Nova
+END
+MACRO 16777217 "Shield" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Lightning Shield
+/cast [mod:shift] Water Shield
+END

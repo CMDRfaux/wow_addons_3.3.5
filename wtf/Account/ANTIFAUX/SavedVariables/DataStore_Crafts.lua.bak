@@ -1,0 +1,26 @@
+
+DataStore_CraftsDB = {
+	["profileKeys"] = {
+		["Dreezy - Enterprise"] = "Dreezy - Enterprise",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Enterprise.Dreezy"] = {
+				["Professions"] = {
+					["Inscription"] = {
+						["isPrimary"] = true,
+					},
+					["Riding"] = {
+						["isSecondary"] = true,
+					},
+					["First Aid"] = {
+						["isSecondary"] = true,
+					},
+					["Herbalism"] = {
+						["isPrimary"] = true,
+					},
+				},
+			},
+		},
+	},
+}

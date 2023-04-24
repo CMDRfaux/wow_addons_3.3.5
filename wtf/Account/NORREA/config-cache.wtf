@@ -1,0 +1,7 @@
+SET showVKeyCastbar "0"
+SET scriptErrors "1"
+SET flaggedTutorials "v##A##B##["
+SET cameraDistanceMaxFactor "1"
+SET showItemLevel "1"
+SET talentFrameShown "1"
+SET ShowAllSpellRanks "0"

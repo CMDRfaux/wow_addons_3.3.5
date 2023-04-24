@@ -1,0 +1,14 @@
+
+DataStoreDB = {
+	["profileKeys"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = "Thenthesis - Area 52 - Free-Pick",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Area 52 - Free-Pick.Thenthesis"] = {
+				["faction"] = "Horde",
+			},
+		},
+		["Version"] = 1,
+	},
+}

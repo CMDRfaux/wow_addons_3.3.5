@@ -1,0 +1,84 @@
+
+QuestHelper_Pref = {
+}
+QuestHelper_UID = "SA3QdxS05AnR4IiCoXF9Ft7MbW5ryiXf"
+QuestHelper_SaveDate = 1680802400
+QuestHelper_Errors = {
+	["version"] = 1,
+}
+QuestHelper_Collector = {
+	["1.4.1 on 3.3.5/enUS/2"] = {
+		["monster"] = {
+		},
+		["warp"] = {
+		},
+		["flight_times"] = {
+		},
+		["modified"] = 1680802410,
+		["flight_master"] = {
+		},
+		["achievement"] = {
+		},
+		["fishing"] = {
+		},
+		["item"] = {
+		},
+		["realms"] = {
+			["Area 52 - Free-Pick"] = 1,
+		},
+		["worldloot"] = {
+		},
+		["object"] = {
+		},
+		["quest"] = {
+			[376] = {
+				["groupcount"] = 0,
+				["criteria_2_text"] = " : 0/6",
+				["criteria_1_text"] = " : 0/6",
+				["special_item"] = false,
+				["items_reward"] = {
+					[375250] = 25,
+				},
+				["name"] = "The Damned",
+				["daily"] = false,
+				["level"] = -1,
+				["criteria_1_type"] = "item",
+				["criteria_2_type"] = "item",
+			},
+			[364] = {
+				["groupcount"] = 0,
+				["criteria_2_text"] = "Wretched Ghoul slain: 5/5",
+				["criteria_1_text"] = "Mindless Zombie slain: 5/5",
+				["special_item"] = false,
+				["items_reward"] = {
+					[375250] = 25,
+				},
+				["name"] = "The Mindless Ones",
+				["daily"] = false,
+				["level"] = -1,
+				["criteria_1_type"] = "monster",
+				["criteria_2_type"] = "monster",
+			},
+			[1903561] = {
+				["groupcount"] = 0,
+				["items_choice"] = {
+					[8178] = 1,
+					[4566] = 1,
+					[8180] = 1,
+					[727] = 1,
+				},
+				["criteria_1_text"] = "Reach level 7 by doing quests and killing creatures!: 0/1",
+				["special_item"] = false,
+				["daily"] = false,
+				["name"] = "Path to Ascension: Level Up!",
+				["criteria_1_type"] = "monster",
+				["items_reward"] = {
+					[375250] = 500,
+				},
+				["level"] = -1,
+			},
+		},
+		["version"] = 8,
+	},
+}
+QuestHelper_Collector_Version = 8

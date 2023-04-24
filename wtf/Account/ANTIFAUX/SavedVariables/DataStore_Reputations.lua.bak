@@ -1,0 +1,28 @@
+
+DataStore_ReputationsDB = {
+	["profileKeys"] = {
+		["Dreezy - Enterprise"] = "Dreezy - Enterprise",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Enterprise.Dreezy"] = {
+				["lastUpdate"] = 1628713427,
+				["Factions"] = {
+					["Exodar"] = "3000|9000|3000",
+					["Knights of the Ebon Blade"] = "3000|9000|7050",
+					["The Kalu'ak"] = "3000|9000|3300",
+					["Valiance Expedition"] = "3000|9000|4465",
+					["The Frostborn"] = "0|3000|2228",
+					["Alliance Vanguard"] = "0|3000|2228",
+					["Stormwind"] = "3000|9000|3100",
+					["Explorers' League"] = "0|3000|2228",
+					["Gnomeregan Exiles"] = "3000|9000|3100",
+					["Ironforge"] = "3000|9000|3100",
+					["Kirin Tor"] = "0|3000|10",
+					["The Silver Covenant"] = "0|3000|2228",
+					["Darnassus"] = "3000|9000|4000",
+				},
+			},
+		},
+	},
+}

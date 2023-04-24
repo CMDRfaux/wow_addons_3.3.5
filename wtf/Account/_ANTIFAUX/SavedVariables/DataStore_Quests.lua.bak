@@ -1,0 +1,49 @@
+
+DataStore_QuestsDB = {
+	["profileKeys"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = "Thenthesis - Area 52 - Free-Pick",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Area 52 - Free-Pick.Thenthesis"] = {
+				["HistoryLastUpdate"] = 1650298453,
+				["History"] = {
+					[788] = true,
+					[804] = true,
+					[4641] = true,
+					[789] = true,
+					[1903511] = true,
+					[4402] = true,
+					[790] = true,
+				},
+				["QuestLinks"] = {
+					nil, -- [1]
+					"|cffffff00|Hquest:1516:-1|h[Call of Earth]|h|r", -- [2]
+					"|cffffff00|Hquest:5649:-1|h[In Favor of Spirituality]|h|r", -- [3]
+					nil, -- [4]
+					"|cffffff00|Hquest:1903560:-1|h[Path to Ascension: Level Up!]|h|r", -- [5]
+					nil, -- [6]
+					"|cffffff00|Hquest:5441:-1|h[Lazy Peons]|h|r", -- [7]
+					"|cffffff00|Hquest:792:-1|h[Vile Familiars]|h|r", -- [8]
+				},
+				["HistoryBuild"] = "12340",
+				["lastUpdate"] = 1650298448,
+				["Rewards"] = {
+					[5] = "c|727|1|1,c|8178|1|1,c|4566|1|1,c|8180|1|1,r|375250|750|1",
+					[8] = "c|4924|1|1,c|4925|1|1,c|4923|1|1,c|5778|1|1",
+				},
+				["Quests"] = {
+					"0|Ascension", -- [1]
+					"1||0|0|0", -- [2]
+					"1||0|0|0", -- [3]
+					"0|Ascension Main Quest", -- [4]
+					"1||0|25|1", -- [5]
+					"0|Valley of Trials", -- [6]
+					"1||0|0|1", -- [7]
+					"1||0|0|0", -- [8]
+				},
+				["HistorySize"] = 7,
+			},
+		},
+	},
+}

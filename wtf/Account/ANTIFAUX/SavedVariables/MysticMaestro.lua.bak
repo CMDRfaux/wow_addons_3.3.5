@@ -1,0 +1,23 @@
+
+MysticMaestroDB = {
+	["profileKeys"] = {
+		["Eskra - Area 52 - Free-Pick"] = "Default",
+	},
+	["realm"] = {
+		["Area 52 - Free-Pick"] = {
+			["AltarLevelUp"] = 1,
+			["AltarXP"] = 5435,
+			["prevAltarGained"] = 5435,
+			["FAVORITE_ENCHANTS"] = {
+			},
+		},
+	},
+}
+MysticMaestroData = {
+	["Area 52 - Free-Pick"] = {
+		["RE_AH_LISTINGS"] = {
+		},
+		["RE_AH_STATISTICS"] = {
+		},
+	},
+}

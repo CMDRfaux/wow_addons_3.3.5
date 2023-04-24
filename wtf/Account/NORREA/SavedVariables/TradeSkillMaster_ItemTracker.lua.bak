@@ -1,0 +1,41 @@
+
+TradeSkillMaster_ItemTrackerDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["NorreaWOTLK - Enterprise"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Enterprise"] = {
+			["characters"] = {
+				["NorreaWOTLK"] = {
+					["auctions"] = {
+					},
+					["bags"] = {
+						[6217] = 1,
+						[6529] = 5,
+						[7005] = 1,
+						[6365] = 1,
+						[45753] = 1,
+						[5956] = 1,
+						[2901] = 1,
+					},
+					["guild"] = "The Gang Plays WoW",
+					["bank"] = {
+					},
+				},
+			},
+			["guilds"] = {
+				["The Gang Plays WoW"] = {
+					["items"] = {
+					},
+					["characters"] = {
+						["NorreaWOTLK"] = true,
+					},
+				},
+			},
+		},
+	},
+}

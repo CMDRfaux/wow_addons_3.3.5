@@ -1,0 +1,8 @@
+MACRO 16777217 "del" INV_Misc_QuestionMark
+#showtooltip Delete
+/run DeleteCursorItem();
+/run print("Item Deleted")
+END
+MACRO 16777218 "del2" INV_Misc_QuestionMark
+/run for bag = 0, 4 do for slot = 1, GetContainerNumSlots(bag) do local name = GetContainerItemLink(bag,slot) if name and string.find(name,"ffffffff") then PickupContainerItem(bag,slot) DeleteCursorItem() end end end
+END

@@ -1,0 +1,18 @@
+
+ZygorTalentAdvisorSettings = {
+	["char"] = {
+		["Eskra - Area 52 - Free-Pick"] = {
+			["debuglog"] = {
+				"21:12:55> Viewer started. ---------------------------", -- [1]
+				"21:12:57> PLAYER_ALIVE", -- [2]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Eskra - Area 52 - Free-Pick"] = "Eskra - Area 52 - Free-Pick",
+	},
+	["profiles"] = {
+		["Eskra - Area 52 - Free-Pick"] = {
+		},
+	},
+}

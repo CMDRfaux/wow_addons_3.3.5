@@ -1,0 +1,13 @@
+MACRO 16777218 "aoe" INV_Misc_QuestionMark
+/cast Cleave
+/cast Sinister Strike
+END
+MACRO 16777219 "fireball" INV_Misc_QuestionMark
+#showtooltip
+/petattack
+/cast Fireball
+END
+MACRO 16777217 "single" INV_Misc_QuestionMark
+/cast Heroic Strike
+/cast Sinister Strike
+END

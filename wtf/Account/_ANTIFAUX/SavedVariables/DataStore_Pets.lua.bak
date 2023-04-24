@@ -1,0 +1,13 @@
+
+DataStore_PetsDB = {
+	["profileKeys"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = "Thenthesis - Area 52 - Free-Pick",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Area 52 - Free-Pick.Thenthesis"] = {
+				["lastUpdate"] = 1650298448,
+			},
+		},
+	},
+}

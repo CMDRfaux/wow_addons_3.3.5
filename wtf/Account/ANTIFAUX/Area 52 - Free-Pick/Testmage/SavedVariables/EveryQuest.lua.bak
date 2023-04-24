@@ -1,0 +1,11 @@
+
+EveryQuestDBPC = nil
+EQ2DBPC = {
+	["profileKeys"] = {
+		["Testmage - Enterprise"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+		},
+	},
+}

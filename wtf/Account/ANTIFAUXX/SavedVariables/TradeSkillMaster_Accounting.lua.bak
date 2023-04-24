@@ -1,0 +1,9 @@
+
+TradeSkillMaster_AccountingDB = {
+	["global"] = {
+		["infoID"] = 1,
+	},
+	["profileKeys"] = {
+		["Geodra - Area 52 - Free-Pick"] = "Default",
+	},
+}

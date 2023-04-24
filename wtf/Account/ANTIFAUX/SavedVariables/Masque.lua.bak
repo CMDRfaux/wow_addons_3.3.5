@@ -1,0 +1,19 @@
+
+MasqueDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Faux - The Dominion"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Groups"] = {
+				["Masque"] = {
+					["SkinID"] = "Caith",
+				},
+			},
+		},
+	},
+}

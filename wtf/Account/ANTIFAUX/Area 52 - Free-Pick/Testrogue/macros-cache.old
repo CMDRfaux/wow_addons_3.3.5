@@ -1,0 +1,19 @@
+MACRO 16777217 "Execute" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Rupture
+/cast [mod:shift] Eviscerate
+END
+MACRO 16777220 "Kick" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Kick
+/cast [mod:shift] Blind
+END
+MACRO 16777218 "Stealth" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Stealth
+/cast [mod:shift] Vanish
+END
+MACRO 16777219 "vanish" INV_Misc_QuestionMark
+#showtooltip
+/cast vanish
+END

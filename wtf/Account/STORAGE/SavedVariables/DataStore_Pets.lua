@@ -1,0 +1,22 @@
+
+DataStore_PetsDB = {
+	["profileKeys"] = {
+		["Drez - Enterprise"] = "Drez - Enterprise",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Enterprise.Drez"] = {
+				["lastUpdate"] = 1632016255,
+				["MOUNT"] = {
+					"32335|Armored Snowy Gryphon|61229|Ability_Mount_Gryphon_01", -- [1]
+					"14565|Charger|23214|Ability_Mount_Charger", -- [2]
+					"18406|Swift Blue Gryphon|32242|Ability_Mount_Gryphon_01", -- [3]
+					"18375|Swift Green Gryphon|32290|Ability_Mount_Gryphon_01", -- [4]
+					"18362|Swift Purple Gryphon|32292|Ability_Mount_Gryphon_01", -- [5]
+					"18376|Swift Red Gryphon|32289|Ability_Mount_Gryphon_01", -- [6]
+					"9158|Warhorse|13819|Spell_Nature_Swiftness", -- [7]
+				},
+			},
+		},
+	},
+}

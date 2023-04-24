@@ -1,0 +1,10 @@
+MACRO 16777218 "Concecrate" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Consecration
+/cast [mod:shift] Consecration(Rank 1)
+END
+MACRO 16777217 "Stun" INV_Misc_QuestionMark
+#showtooltip
+/cast [mod:shift] Repentance
+/cast [nomod] Hammer of Justice
+END

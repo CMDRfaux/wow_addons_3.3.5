@@ -1,0 +1,5 @@
+SET showVKeyCastbar "0"
+SET scriptErrors "1"
+SET flaggedTutorials "v##["
+SET cameraDistanceMaxFactor "1"
+SET showItemLevel "1"

@@ -1,0 +1,6 @@
+MACRO 16777217 "foodbuffs" INV_Misc_QuestionMark
+.additem 13510 20
+.additem 27658 20
+.additem 22849 20
+.additem 33461 20
+END

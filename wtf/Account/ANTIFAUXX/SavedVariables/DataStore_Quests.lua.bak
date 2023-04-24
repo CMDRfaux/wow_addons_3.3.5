@@ -1,0 +1,15 @@
+
+DataStore_QuestsDB = {
+	["profileKeys"] = {
+		["Geodra - Area 52 - Free-Pick"] = "Geodra - Area 52 - Free-Pick",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Area 52 - Free-Pick.Geodra"] = {
+				["HistoryLastUpdate"] = 1650556390,
+				["HistoryBuild"] = "12340",
+				["lastUpdate"] = 1650556385,
+			},
+		},
+	},
+}

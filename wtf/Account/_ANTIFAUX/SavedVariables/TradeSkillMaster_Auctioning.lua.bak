@@ -1,0 +1,17 @@
+
+TradeSkillMaster_AuctioningDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Area 52 - Free-Pick"] = {
+			["player"] = {
+				["Thenthesis"] = true,
+			},
+		},
+	},
+}

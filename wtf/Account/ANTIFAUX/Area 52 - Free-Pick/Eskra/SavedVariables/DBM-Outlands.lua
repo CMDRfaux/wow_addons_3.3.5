@@ -1,0 +1,53 @@
+
+DBMOutlands_SavedVars = {
+	["Kazzak"] = {
+		["Timer21063Kazzak5"] = true,
+		["Twisted Reflection on you"] = true,
+		["Mark of Kazzak on >%s<"] = true,
+		["Frenzy"] = true,
+		["timer_berserk"] = true,
+		["Timer21063Kazzak3"] = true,
+		["Twisted Reflection on >%s<"] = true,
+		["Enabled"] = true,
+		["Frenzy soon"] = true,
+		["Timer36706Kazzak1"] = true,
+		["KazzakIcon"] = true,
+		["Mark of Kazzak on you"] = true,
+		["Timer32963Kazzak0"] = true,
+		["Timer32960Kazzak4"] = true,
+		["Thunderclap"] = true,
+		["HealthFrame"] = false,
+		["Timer32960Kazzak2"] = true,
+		["Announce"] = false,
+		["KazzakWhisper"] = false,
+	},
+	["Doomwalker"] = {
+		["Enabled"] = true,
+		["RangeCheck"] = true,
+		["Overrun Cooldown"] = true,
+		["ChargeWarn"] = true,
+		["Earthquake"] = true,
+		["Earthquake Cooldown"] = true,
+		["HealthFrame"] = false,
+		["Announce"] = false,
+		["QuakeWarn"] = true,
+	},
+}
+DBMOutlands_SavedStats = {
+	["Kazzak"] = {
+		["heroic25Pulls"] = 0,
+		["kills"] = 0,
+		["heroic25Kills"] = 0,
+		["heroic10Kills"] = 0,
+		["heroic10Pulls"] = 0,
+		["pulls"] = 0,
+	},
+	["Doomwalker"] = {
+		["heroic25Pulls"] = 0,
+		["kills"] = 0,
+		["heroic25Kills"] = 0,
+		["heroic10Kills"] = 0,
+		["heroic10Pulls"] = 0,
+		["pulls"] = 0,
+	},
+}

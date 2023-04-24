@@ -1,0 +1,32 @@
+
+DataStore_TalentsDB = {
+	["profileKeys"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = "Thenthesis - Area 52 - Free-Pick",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Area 52 - Free-Pick.Thenthesis"] = {
+				["lastUpdate"] = 1650298448,
+				["Glyphs"] = {
+					"0|0|||0", -- [1]
+					"0|0|||0", -- [2]
+					"0|0|||0", -- [3]
+					"0|0|||0", -- [4]
+					"0|0|||0", -- [5]
+					"0|0|||0", -- [6]
+					"0|0|||0", -- [7]
+					"0|0|||0", -- [8]
+					"0|0|||0", -- [9]
+					"0|0|||0", -- [10]
+					"0|0|||0", -- [11]
+					"0|0|||0", -- [12]
+				},
+			},
+		},
+	},
+}
+DataStore_TalentsRefDB = {
+	["profileKeys"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = "Thenthesis - Area 52 - Free-Pick",
+	},
+}

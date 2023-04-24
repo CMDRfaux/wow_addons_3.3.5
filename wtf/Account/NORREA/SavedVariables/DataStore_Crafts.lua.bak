@@ -1,0 +1,68 @@
+
+DataStore_CraftsDB = {
+	["profileKeys"] = {
+		["NorreaWOTLK - Enterprise"] = "NorreaWOTLK - Enterprise",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Enterprise.NorreaWOTLK"] = {
+				["Professions"] = {
+					["Inscription"] = {
+						["isPrimary"] = true,
+					},
+					["Blacksmithing"] = {
+						["isPrimary"] = true,
+					},
+					["Skinning"] = {
+						["isPrimary"] = true,
+					},
+					["Alchemy"] = {
+						["isPrimary"] = true,
+					},
+					["Mining"] = {
+						["isPrimary"] = true,
+					},
+					["First Aid"] = {
+						["isSecondary"] = true,
+					},
+					["Jewelcrafting"] = {
+						["isPrimary"] = true,
+					},
+					["Cooking"] = {
+						["isSecondary"] = true,
+					},
+					["Fishing"] = {
+						["isSecondary"] = true,
+					},
+					["Tailoring"] = {
+						["isPrimary"] = true,
+					},
+					["Herbalism"] = {
+						["isPrimary"] = true,
+					},
+					["Engineering"] = {
+						["isPrimary"] = true,
+					},
+					["Leatherworking"] = {
+						["isPrimary"] = true,
+					},
+					["Riding"] = {
+						["isSecondary"] = true,
+					},
+					["Enchanting"] = {
+						["isPrimary"] = true,
+					},
+				},
+			},
+		},
+		["Guilds"] = {
+			["Default.Enterprise.The Gang Plays WoW"] = {
+				["Members"] = {
+					["NorreaWOTLK"] = {
+						["Version"] = 12340,
+					},
+				},
+			},
+		},
+	},
+}

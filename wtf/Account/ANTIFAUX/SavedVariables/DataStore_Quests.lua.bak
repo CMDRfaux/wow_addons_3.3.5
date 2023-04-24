@@ -1,0 +1,48 @@
+
+DataStore_QuestsDB = {
+	["profileKeys"] = {
+		["Dreezy - Enterprise"] = "Dreezy - Enterprise",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Enterprise.Dreezy"] = {
+				["QuestLinks"] = {
+					nil, -- [1]
+					"|cff808080|Hquest:11707:71|h[Distress Call]|h|r", -- [2]
+					"|cff808080|Hquest:11575:71|h[Nick of Time]|h|r", -- [3]
+					"|cff40c040|Hquest:11938:72|h[Buying Some Time]|h|r", -- [4]
+					nil, -- [5]
+					"|cff40c040|Hquest:12790:74|h[Learning to Leave and Return: the Magical Way]|h|r", -- [6]
+					nil, -- [7]
+					"|cff808080|Hquest:12641:55|h[Death Comes From On High]|h|r", -- [8]
+					[10] = "|cff40c040|Hquest:12157:72|h[The Lost Courier]|h|r",
+					[14] = "|cffffff00|Hquest:12898:80|h[The Shadow Vault]|h|r",
+					[11] = "|cff40c040|Hquest:12117:72|h[Travel to Moa'ki Harbor]|h|r",
+					[13] = "|cffffff00|Hquest:13226:78|h[Judgment Day Comes!]|h|r",
+				},
+				["lastUpdate"] = 1628713428,
+				["Rewards"] = {
+					[4] = "c|37271|1|1,c|37393|1|1,c|37425|1|1,c|38212|1|1",
+					[11] = "c|37283|1|1,c|37566|1|1,c|37546|1|1,c|37319|1|1",
+					[14] = "c|43837|1|1,c|43838|1|1,c|43836|1|1",
+				},
+				["Quests"] = {
+					"0|Borean Tundra", -- [1]
+					"1||0|2400|0", -- [2]
+					"1||0|24000|1", -- [3]
+					"1||0|48600|0", -- [4]
+					"0|Dalaran", -- [5]
+					"1||0|10200|1", -- [6]
+					"0|Death Knight", -- [7]
+					"1||0|7500|0", -- [8]
+					"0|Dragonblight", -- [9]
+					"1||0|12300|0", -- [10]
+					"1||0|4950|0", -- [11]
+					"0|Icecrown", -- [12]
+					"1||0|32400|0", -- [13]
+					"1||0|13200|1", -- [14]
+				},
+			},
+		},
+	},
+}

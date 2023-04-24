@@ -1,0 +1,25 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+	},
+	["ChatHistoryLog"] = {
+		{
+			"yo can we please q for 60-70 dungeon i cant keep wait 1 hour q's", -- [1]
+			"Smackmybutt", -- [2]
+			"", -- [3]
+			"7. world", -- [4]
+			"Smackmybutt", -- [5]
+			"", -- [6]
+			0, -- [7]
+			7, -- [8]
+			"World", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"0x0000000000DC34EA", -- [12]
+			0, -- [13]
+			[51] = 1650298853,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Smackmybutt",
+		}, -- [1]
+	},
+}

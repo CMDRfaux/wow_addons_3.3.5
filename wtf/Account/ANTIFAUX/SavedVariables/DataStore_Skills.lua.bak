@@ -1,0 +1,50 @@
+
+DataStore_SkillsDB = {
+	["profileKeys"] = {
+		["Dreezy - Enterprise"] = "Dreezy - Enterprise",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Enterprise.Dreezy"] = {
+				["lastUpdate"] = 1628713427,
+				["Skills"] = {
+					["Secondary Skills"] = {
+						["First Aid"] = "270|300",
+						["Riding"] = "300|300",
+					},
+					["Class Skills"] = {
+						["Unholy"] = "1|1",
+						["Frost"] = "1|1",
+						["Runeforging"] = "1|1",
+						["Blood"] = "1|1",
+					},
+					["Professions"] = {
+						["Herbalism"] = "1|75",
+						["Inscription"] = "1|75",
+					},
+					["Languages"] = {
+						["Language: Darnassian"] = "300|300",
+						["Language: Common"] = "300|300",
+					},
+					["Armor Proficiencies"] = {
+						["Leather"] = "1|1",
+						["Mail"] = "1|1",
+						["Plate Mail"] = "1|1",
+						["Cloth"] = "1|1",
+					},
+					["Weapon Skills"] = {
+						["Two-Handed Maces"] = "270|400",
+						["Defense"] = "400|400",
+						["Maces"] = "400|400",
+						["Two-Handed Swords"] = "400|400",
+						["Swords"] = "335|400",
+						["Unarmed"] = "270|400",
+						["Axes"] = "270|400",
+						["Polearms"] = "270|400",
+						["Two-Handed Axes"] = "270|400",
+					},
+				},
+			},
+		},
+	},
+}

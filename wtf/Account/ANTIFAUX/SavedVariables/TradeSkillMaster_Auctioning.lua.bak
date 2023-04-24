@@ -1,0 +1,29 @@
+
+TradeSkillMaster_AuctioningDB = {
+	["global"] = {
+		["hideAdvanced"] = false,
+		["treeGroupStatus"] = {
+			["groups"] = {
+				["1"] = true,
+			},
+			["scrollvalue"] = 0,
+			["selected"] = 1,
+			["treesizable"] = true,
+			["fullwidth"] = 801.0000884247006,
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Mancy - Enterprise"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Enterprise"] = {
+			["player"] = {
+				["Mancy"] = true,
+			},
+		},
+	},
+}

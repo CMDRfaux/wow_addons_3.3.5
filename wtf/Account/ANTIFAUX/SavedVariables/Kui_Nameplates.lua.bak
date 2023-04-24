@@ -1,0 +1,30 @@
+
+KuiNameplatesGDB = {
+	["namespaces"] = {
+		["Castbar"] = {
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["NameOnly"] = {
+		},
+		["ClassColours"] = {
+		},
+		["LowHealthColours"] = {
+		},
+		["CastWarnings"] = {
+		},
+		["Auras"] = {
+		},
+		["ComboPoints"] = {
+		},
+		["TankMode"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Eskra - Area 52 - Free-Pick"] = "Eskra - Area 52 - Free-Pick",
+	},
+	["profiles"] = {
+		["Eskra - Area 52 - Free-Pick"] = {
+		},
+	},
+}

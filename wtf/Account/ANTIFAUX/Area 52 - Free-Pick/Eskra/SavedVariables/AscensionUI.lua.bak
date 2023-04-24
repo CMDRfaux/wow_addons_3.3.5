@@ -1,0 +1,174 @@
+
+AscensionUI_CDB = {
+	["MysticEnchant"] = {
+		["EnchantProgress"] = 0,
+		["LastRequired"] = 0,
+		["EnchantLevel"] = 0,
+		["NextRequired"] = 1,
+	},
+	["MythicKeystone"] = {
+		["Locked"] = true,
+		["Week"] = 33,
+	},
+	["EnchantManager"] = {
+		["presets"] = {
+		},
+		["active"] = 1,
+	},
+	["CA2"] = {
+		["SimpleTalentSlots"] = {
+		},
+		["SpecIconsCustom"] = {
+		},
+		["SpecNamesCustom"] = {
+		},
+		["skillCardsDB"] = {
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [1]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [2]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [3]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [4]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [5]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [6]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [7]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [8]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [9]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [10]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [11]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [12]
+		},
+		["luckyCardsDB"] = {
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [1]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [2]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [3]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [4]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [5]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [6]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [7]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [8]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [9]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [10]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [11]
+			{
+				["NORMAL"] = {
+				},
+				["GOLD"] = {
+				},
+			}, -- [12]
+		},
+	},
+}

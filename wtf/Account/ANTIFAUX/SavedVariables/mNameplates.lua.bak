@@ -1,0 +1,34 @@
+
+mNameplatesDB = {
+	["namespaces"] = {
+		["RaidMark"] = {
+		},
+		["UnitGuild"] = {
+		},
+		["NameFilter"] = {
+		},
+		["UnitLevel"] = {
+		},
+		["BossIcon"] = {
+		},
+		["EliteIcon"] = {
+		},
+		["CastBar"] = {
+		},
+		["UnitHealthText"] = {
+		},
+		["HealthBars"] = {
+		},
+		["UnitName"] = {
+		},
+		["UnitHealthPercent"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Eskra - Area 52 - Free-Pick"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

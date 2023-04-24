@@ -1,0 +1,10 @@
+
+ESN_RareDB = {
+	["profileKeys"] = {
+		["Eskra - Area 52 - Free-Pick"] = "Eskra - Area 52 - Free-Pick",
+	},
+	["profiles"] = {
+		["Eskra - Area 52 - Free-Pick"] = {
+		},
+	},
+}

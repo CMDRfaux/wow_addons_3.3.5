@@ -1,0 +1,29 @@
+
+DataStore_CharactersDB = {
+	["profileKeys"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = "Thenthesis - Area 52 - Free-Pick",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Area 52 - Free-Pick.Thenthesis"] = {
+				["XPMax"] = 5400,
+				["played"] = 3879,
+				["zone"] = "Durotar",
+				["lastUpdate"] = 1650298458,
+				["class"] = "Hero",
+				["race"] = "Troll",
+				["level"] = 8,
+				["XP"] = 5277,
+				["RestXP"] = 112,
+				["money"] = 475,
+				["gender"] = 2,
+				["name"] = "Thenthesis",
+				["faction"] = "Horde",
+				["englishRace"] = "Troll",
+				["subZone"] = "Valley of Trials",
+				["lastLogoutTimestamp"] = 1650298458,
+				["englishClass"] = "DRUID",
+			},
+		},
+	},
+}

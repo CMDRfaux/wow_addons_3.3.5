@@ -1,0 +1,40 @@
+MACRO 16777221 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] 
+/cast [mod:shift] 
+END
+MACRO 16777222 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] 
+/cast [mod:shift] 
+END
+MACRO 16777223 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] 
+/cast [mod:shift] 
+END
+MACRO 16777225 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] 
+/cast [mod:shift] 
+END
+MACRO 16777224 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Blessing of Kings
+/cast [mod:shift] Blessing of Wisdom 
+END
+MACRO 16777220 " " INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Seal of Vengeance
+/cast [mod:shift] Seal of Wisdom 
+END
+MACRO 16777219 "Taunt" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Hand of Reckoning
+/cast [mod:shift] Righteous Defense
+END
+MACRO 16777218 "Undead" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Exorcism
+/cast [mod:shift] Holy Wrath
+END

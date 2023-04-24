@@ -1,0 +1,15 @@
+_NPCScan: enabled
+Clique: enabled
+DBM-Core: enabled
+DBM-GUI: enabled
+DBM-ChamberOfAspects: enabled
+DBM-Coliseum: enabled
+DBM-EyeOfEternity: enabled
+DBM-Icecrown: enabled
+DBM-Naxx: enabled
+DBM-Onyxia: enabled
+DBM-Party-WotLK: enabled
+DBM-PvP: enabled
+DBM-Ulduar: enabled
+DBM-VoA: enabled
+DBM-WorldEvents: enabled

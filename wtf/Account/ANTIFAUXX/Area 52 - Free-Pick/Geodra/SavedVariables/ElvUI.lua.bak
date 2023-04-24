@@ -1,0 +1,205 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+	},
+	["ChatHistoryLog"] = {
+		{
+			"i spent many hours in felwood", -- [1]
+			"Shrimpsoup", -- [2]
+			"", -- [3]
+			"2. world", -- [4]
+			"Shrimpsoup", -- [5]
+			"", -- [6]
+			0, -- [7]
+			2, -- [8]
+			"World", -- [9]
+			0, -- [10]
+			8, -- [11]
+			"0x00000000006D4FF1", -- [12]
+			0, -- [13]
+			[51] = 1650556386,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Shrimpsoup",
+		}, -- [1]
+		{
+			"so...", -- [1]
+			"Shrimpsoup", -- [2]
+			"", -- [3]
+			"2. world", -- [4]
+			"Shrimpsoup", -- [5]
+			"", -- [6]
+			0, -- [7]
+			2, -- [8]
+			"World", -- [9]
+			0, -- [10]
+			9, -- [11]
+			"0x00000000006D4FF1", -- [12]
+			0, -- [13]
+			[51] = 1650556389,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Shrimpsoup",
+		}, -- [2]
+		{
+			"yeah but they didn't have to give it to you", -- [1]
+			"Bustedopen", -- [2]
+			"", -- [3]
+			"3. newcomers", -- [4]
+			"Bustedopen", -- [5]
+			"", -- [6]
+			0, -- [7]
+			3, -- [8]
+			"Newcomers", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"0x0000000000DC2C05", -- [12]
+			0, -- [13]
+			[51] = 1650556391,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Bustedopen",
+		}, -- [3]
+		{
+			"you could be walking", -- [1]
+			"Bustedopen", -- [2]
+			"", -- [3]
+			"3. newcomers", -- [4]
+			"Bustedopen", -- [5]
+			"", -- [6]
+			0, -- [7]
+			3, -- [8]
+			"Newcomers", -- [9]
+			0, -- [10]
+			12, -- [11]
+			"0x0000000000DC2C05", -- [12]
+			0, -- [13]
+			[51] = 1650556397,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Bustedopen",
+		}, -- [4]
+		{
+			"Thank you for the answer :D I asked because the eggs are still there xD", -- [1]
+			"Evurah", -- [2]
+			"", -- [3]
+			"2. world", -- [4]
+			"Evurah", -- [5]
+			"", -- [6]
+			0, -- [7]
+			2, -- [8]
+			"World", -- [9]
+			0, -- [10]
+			13, -- [11]
+			"0x0000000000DC3505", -- [12]
+			0, -- [13]
+			[51] = 1650556399,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Evurah",
+		}, -- [5]
+		{
+			"ty good to know u do find them there", -- [1]
+			"Shrimpsoup", -- [2]
+			"", -- [3]
+			"2. world", -- [4]
+			"Shrimpsoup", -- [5]
+			"", -- [6]
+			0, -- [7]
+			2, -- [8]
+			"World", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"0x00000000006D4FF1", -- [12]
+			0, -- [13]
+			[51] = 1650556400,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Shrimpsoup",
+		}, -- [6]
+		{
+			"try swamp of sorrows", -- [1]
+			"Porkchief", -- [2]
+			"", -- [3]
+			"2. world", -- [4]
+			"Porkchief", -- [5]
+			"", -- [6]
+			0, -- [7]
+			2, -- [8]
+			"World", -- [9]
+			0, -- [10]
+			15, -- [11]
+			"0x0000000000DC24FF", -- [12]
+			0, -- [13]
+			[51] = 1650556401,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Porkchief",
+		}, -- [7]
+		{
+			"and suddenly its not so bad", -- [1]
+			"Bustedopen", -- [2]
+			"", -- [3]
+			"3. newcomers", -- [4]
+			"Bustedopen", -- [5]
+			"", -- [6]
+			0, -- [7]
+			3, -- [8]
+			"Newcomers", -- [9]
+			0, -- [10]
+			16, -- [11]
+			"0x0000000000DC2C05", -- [12]
+			0, -- [13]
+			[51] = 1650556401,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Bustedopen",
+		}, -- [8]
+		{
+			"what a nice pis of wep |cffa335ee|Hitem:31318:0:0:0:0:0:0:0:70:v4:92255:7|h[Singing Crystal Axe]|h|r ", -- [1]
+			"Bonito", -- [2]
+			"", -- [3]
+			"2. world", -- [4]
+			"Bonito", -- [5]
+			"", -- [6]
+			0, -- [7]
+			2, -- [8]
+			"World", -- [9]
+			0, -- [10]
+			17, -- [11]
+			"0x0000000000DC26A0", -- [12]
+			0, -- [13]
+			[51] = 1650556403,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Bonito",
+		}, -- [9]
+		{
+			"ty pork i might", -- [1]
+			"Shrimpsoup", -- [2]
+			"", -- [3]
+			"2. world", -- [4]
+			"Shrimpsoup", -- [5]
+			"", -- [6]
+			0, -- [7]
+			2, -- [8]
+			"World", -- [9]
+			0, -- [10]
+			18, -- [11]
+			"0x00000000006D4FF1", -- [12]
+			0, -- [13]
+			[51] = 1650556416,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Shrimpsoup",
+		}, -- [10]
+		{
+			"I have portal mastery so it's not useful for m", -- [1]
+			"Solafein", -- [2]
+			"", -- [3]
+			"3. newcomers", -- [4]
+			"Solafein", -- [5]
+			"", -- [6]
+			0, -- [7]
+			3, -- [8]
+			"Newcomers", -- [9]
+			0, -- [10]
+			21, -- [11]
+			"0x0000000000DBEAF0", -- [12]
+			0, -- [13]
+			[51] = 1650556420,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Solafein",
+		}, -- [11]
+	},
+}

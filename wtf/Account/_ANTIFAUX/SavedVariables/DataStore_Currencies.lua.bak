@@ -1,0 +1,19 @@
+
+DataStore_CurrenciesDB = {
+	["profileKeys"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = "Thenthesis - Area 52 - Free-Pick",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Area 52 - Free-Pick.Thenthesis"] = {
+				["Currencies"] = {
+					"0|Ascension: Character Advancement", -- [1]
+					"1|Ability Essence|0|383080", -- [2]
+					"1|Ability Purge|2|383082", -- [3]
+					"1|Talent Purge|3|383083", -- [4]
+				},
+				["lastUpdate"] = 1650298448,
+			},
+		},
+	},
+}

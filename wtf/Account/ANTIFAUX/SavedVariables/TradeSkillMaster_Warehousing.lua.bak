@@ -1,0 +1,15 @@
+
+TradeSkillMaster_WarehousingDB = {
+	["profileKeys"] = {
+		["Mancy - Enterprise"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Enterprise"] = {
+			["PlayerBagState"] = {
+				[3576] = 27,
+				[2842] = 77,
+				[2841] = 16,
+			},
+		},
+	},
+}

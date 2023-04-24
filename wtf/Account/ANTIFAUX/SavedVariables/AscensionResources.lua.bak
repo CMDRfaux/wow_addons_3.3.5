@@ -1,0 +1,10 @@
+
+AscensionResourcesDB = {
+	["profileKeys"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = "Thenthesis - Area 52 - Free-Pick",
+	},
+	["profiles"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = {
+		},
+	},
+}

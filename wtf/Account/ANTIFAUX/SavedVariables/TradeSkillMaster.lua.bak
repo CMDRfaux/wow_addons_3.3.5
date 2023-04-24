@@ -1,0 +1,14 @@
+
+TradeSkillMasterDB = {
+	["profileKeys"] = {
+		["Mancy - Enterprise"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["minimapIcon"] = {
+				["minimapPos"] = 193.4020379558301,
+			},
+			["infoMessage"] = 10,
+		},
+	},
+}

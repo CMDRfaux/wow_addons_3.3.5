@@ -1,0 +1,12 @@
+ButtonFacade: disabled
+ButtonFacade_CleanUI_Thin: disabled
+ButtonFacade_Epix: disabled
+Postal: disabled
+Outfitter: disabled
+ElvUI_EverySecondCounts: disabled
+ElvUI_FogOfWar: disabled
+ElvUI_VisualAuraTimers: disabled
+ElvUI_MinimapButtons: disabled
+ElvUI_ChannelAlerts: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled

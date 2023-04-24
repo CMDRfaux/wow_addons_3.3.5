@@ -1,0 +1,40 @@
+
+DataStore_ContainersDB = {
+	["profileKeys"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = "Thenthesis - Area 52 - Free-Pick",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Area 52 - Free-Pick.Thenthesis"] = {
+				["lastUpdate"] = 1650298447,
+				["Containers"] = {
+					["Bag0"] = {
+						["ids"] = {
+							4917, -- [1]
+							15925, -- [2]
+							2211, -- [3]
+							6948, -- [4]
+							16114, -- [5]
+							769, -- [6]
+							35, -- [7]
+							159, -- [8]
+						},
+						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
+						["size"] = 16,
+						["counts"] = {
+							[6] = 4,
+						},
+						["freeslots"] = 8,
+					},
+					["Bag-2"] = {
+						["icon"] = "Interface\\Icons\\INV_Misc_Key_14",
+						["size"] = 32,
+					},
+				},
+				["numFreeBagSlots"] = 8,
+				["numBagSlots"] = 16,
+			},
+		},
+		["Version"] = 1,
+	},
+}

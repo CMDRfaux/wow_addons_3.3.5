@@ -1,0 +1,21 @@
+
+DataStore_ReputationsDB = {
+	["profileKeys"] = {
+		["Thenthesis - Area 52 - Free-Pick"] = "Thenthesis - Area 52 - Free-Pick",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Area 52 - Free-Pick.Thenthesis"] = {
+				["lastUpdate"] = 1650298448,
+				["Factions"] = {
+					["Undercity"] = "0|3000|1438",
+					["Darkspear Trolls"] = "3000|9000|6359",
+					["Thunder Bluff"] = "3000|9000|4038",
+					["Silvermoon City"] = "0|3000|1338",
+					["The Law"] = "0|3000|1800",
+					["Orgrimmar"] = "3000|9000|5459",
+				},
+			},
+		},
+	},
+}

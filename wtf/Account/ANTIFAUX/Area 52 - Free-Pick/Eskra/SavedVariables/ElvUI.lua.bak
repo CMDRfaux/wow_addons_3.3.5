@@ -1,0 +1,80 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/ec", -- [1]
+	},
+	["ChatHistoryLog"] = {
+		{
+			"WTB 48DP 110g each w/ me ty", -- [1]
+			"Mylialia", -- [2]
+			"", -- [3]
+			"2. world", -- [4]
+			"Mylialia", -- [5]
+			"", -- [6]
+			0, -- [7]
+			2, -- [8]
+			"World", -- [9]
+			0, -- [10]
+			47, -- [11]
+			"0x0000000000E245D9", -- [12]
+			0, -- [13]
+			[51] = 1661292521,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Mylialia",
+		}, -- [1]
+		{
+			"WTB |cff71d5ff|Hspell:81519|h[Consuming Flames]|h|r}", -- [1]
+			"Supositorioh", -- [2]
+			"", -- [3]
+			"2. world", -- [4]
+			"Supositorioh", -- [5]
+			"", -- [6]
+			0, -- [7]
+			2, -- [8]
+			"World", -- [9]
+			0, -- [10]
+			53, -- [11]
+			"0x0000000000E2846C", -- [12]
+			0, -- [13]
+			[51] = 1661292579,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Supositorioh",
+		}, -- [2]
+		{
+			"WTS |cffe6cc80|Hitem:760037:0:0:0:0:0:0:0:70|h[Halo of the Selfless]|h|r |cffe6cc80|Hitem:172191:0:0:0:0:0:0:0:70|h[An'zig Vra]|h|r |cffe6cc80|Hitem:6300625:0:0:0:0:0:0:0:70|h[Incarnation: Might of the Grizzlemaw (Blonde)]|h|r /w me", -- [1]
+			"Motown", -- [2]
+			"", -- [3]
+			"2. world", -- [4]
+			"Motown", -- [5]
+			"", -- [6]
+			0, -- [7]
+			2, -- [8]
+			"World", -- [9]
+			0, -- [10]
+			57, -- [11]
+			"0x0000000000DB9CF5", -- [12]
+			0, -- [13]
+			[51] = 1661292607,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Motown",
+		}, -- [3]
+		{
+			"WTS |cffe6cc80|Hitem:6300625:0:0:0:0:0:0:0:70|h[Incarnation: Might of the Grizzlemaw (Blonde)]|h|r |cffe6cc80|Hitem:172191:0:0:0:0:0:0:0:70|h[An'zig Vra]|h|r |cffe6cc80|Hitem:760037:0:0:0:0:0:0:0:70|h[Halo of the Selfless]|h|r /w me", -- [1]
+			"Motown", -- [2]
+			"", -- [3]
+			"1. ascension", -- [4]
+			"Motown", -- [5]
+			"", -- [6]
+			0, -- [7]
+			1, -- [8]
+			"Ascension", -- [9]
+			0, -- [10]
+			58, -- [11]
+			"0x0000000000DB9CF5", -- [12]
+			0, -- [13]
+			[51] = 1661292609,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "Motown",
+		}, -- [4]
+	},
+}

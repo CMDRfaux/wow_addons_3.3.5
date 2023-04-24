@@ -1,0 +1,13 @@
+
+DataStore_CurrenciesDB = {
+	["profileKeys"] = {
+		["Dreezy - Enterprise"] = "Dreezy - Enterprise",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Enterprise.Dreezy"] = {
+				["lastUpdate"] = 1628713427,
+			},
+		},
+	},
+}

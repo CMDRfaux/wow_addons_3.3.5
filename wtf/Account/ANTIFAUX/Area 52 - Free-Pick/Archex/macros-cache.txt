@@ -1,0 +1,44 @@
+MACRO 16777223 "Amp Curse" INV_Misc_QuestionMark
+#showtooltip Curse of Agony
+/cast Amplify Curse
+/cast Curse of Agony
+END
+MACRO 16777219 "AOE" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Rain of Fire
+/cast [mod:shift] Hellfire
+END
+MACRO 16777218 "Fear" INV_Misc_QuestionMark
+#showtooltip Fear
+/stopattack
+/cast [@mouseover, exists, nodead, nomod][@target, exists, nodead, nomod] Fear
+END
+MACRO 16777220 "Heal" INV_Misc_QuestionMark
+#showtooltip
+/use [nomod] Master Healthstone
+/use [mod:shift] Super Healing Potion
+END
+MACRO 16777217 "Health Funnel" INV_Misc_QuestionMark
+#showtooltip
+/stopcasting
+/cast Health Funnel
+END
+MACRO 16777224 "Healthstones" INV_Misc_QuestionMark
+#showtooltip Create Healthstone
+/cast [mod:shift] Create Healthstone
+/use [nomod] Major Healthstone
+END
+MACRO 16777221 "Kick" Spell_Nature_Cyclone
+#showtooltip
+/cast [@focus,exists] Spell Lock; Spell Lock
+END
+MACRO 16777222 "Taps" INV_Misc_QuestionMark
+#showtooltip Life Tap
+/cast [mod:shift] Life Tap
+/cast [nomod] Dark Pact
+END
+MACRO 16777225 "Taps2" INV_Misc_QuestionMark
+#showtooltip
+/cast [nomod] Life Tap
+/cast [mod:shift] Life Tap(rank 1)
+END

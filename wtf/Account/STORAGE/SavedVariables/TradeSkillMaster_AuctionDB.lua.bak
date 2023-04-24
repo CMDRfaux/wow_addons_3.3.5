@@ -1,0 +1,16 @@
+
+TradeSkillMaster_AuctionDBDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Drez - Enterprise"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Enterprise"] = {
+			["time"] = 10,
+			["scanData"] = "",
+		},
+	},
+}

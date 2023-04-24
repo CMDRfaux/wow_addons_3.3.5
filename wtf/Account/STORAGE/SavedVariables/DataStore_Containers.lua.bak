@@ -1,0 +1,82 @@
+
+DataStore_ContainersDB = {
+	["profileKeys"] = {
+		["Drez - Enterprise"] = "Drez - Enterprise",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Enterprise.Drez"] = {
+				["lastUpdate"] = 1632015285,
+				["Containers"] = {
+					["Bag4"] = {
+						["ids"] = {
+							[5] = 40317,
+							[6] = 51808,
+							[14] = 33470,
+							[13] = 6948,
+							[15] = 40541,
+							[16] = 40576,
+						},
+						["link"] = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:80|h[Netherweave Bag]|h|r",
+						["icon"] = "Interface\\Icons\\INV_Misc_Bag_23_Netherweave",
+						["size"] = 16,
+						["counts"] = {
+							[14] = 4,
+						},
+						["freeslots"] = 10,
+					},
+					["Bag0"] = {
+						["ids"] = {
+							[9] = 44253,
+							[10] = 42852,
+						},
+						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
+						["size"] = 16,
+						["freeslots"] = 14,
+					},
+					["Bag1"] = {
+						["ids"] = {
+							[4] = 40384,
+							[14] = 40330,
+							[3] = 40431,
+							[13] = 45690,
+						},
+						["link"] = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:80|h[Netherweave Bag]|h|r",
+						["icon"] = "Interface\\Icons\\INV_Misc_Bag_23_Netherweave",
+						["size"] = 16,
+						["freeslots"] = 12,
+					},
+					["Bag2"] = {
+						["ids"] = {
+							[7] = 40075,
+							[8] = 40574,
+						},
+						["link"] = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:80|h[Netherweave Bag]|h|r",
+						["icon"] = "Interface\\Icons\\INV_Misc_Bag_23_Netherweave",
+						["size"] = 16,
+						["freeslots"] = 14,
+					},
+					["Bag3"] = {
+						["ids"] = {
+							39706, -- [1]
+							40403, -- [2]
+							[11] = 40577,
+							[12] = 40578,
+						},
+						["link"] = "|cff1eff00|Hitem:21841:0:0:0:0:0:0:0:80|h[Netherweave Bag]|h|r",
+						["icon"] = "Interface\\Icons\\INV_Misc_Bag_23_Netherweave",
+						["size"] = 16,
+						["freeslots"] = 12,
+					},
+					["Bag-2"] = {
+						["icon"] = "Interface\\Icons\\INV_Misc_Key_14",
+						["size"] = 32,
+					},
+				},
+				["numFreeBagSlots"] = 62,
+				["numBagSlots"] = 80,
+			},
+		},
+		["Version"] = 1,
+	},
+}

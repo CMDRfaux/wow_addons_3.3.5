@@ -1,0 +1,817 @@
+
+ARKINVDB = {
+	["char"] = {
+		["Archex - The Dominion"] = {
+			["option"] = {
+				["version"] = 3.0246,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Archex - The Dominion"] = "Default",
+	},
+	["global"] = {
+		["option"] = {
+			["version"] = 3.0246,
+			["sort"] = {
+				["data"] = {
+					[9998] = {
+						["order"] = {
+							nil, -- [1]
+							nil, -- [2]
+							nil, -- [3]
+							nil, -- [4]
+							"itemstatlevel", -- [5]
+							"itemuselevel", -- [6]
+							"itemage", -- [7]
+							"itemtype", -- [8]
+							"vendorprice", -- [9]
+						},
+					},
+					[9997] = {
+						["order"] = {
+							nil, -- [1]
+							"itemstatlevel", -- [2]
+							"itemuselevel", -- [3]
+							"itemage", -- [4]
+							"itemtype", -- [5]
+							"category", -- [6]
+							"location", -- [7]
+							"vendorprice", -- [8]
+							"quality", -- [9]
+						},
+					},
+					[9999] = {
+						["order"] = {
+							"itemstatlevel", -- [1]
+							"itemuselevel", -- [2]
+							"itemage", -- [3]
+							"itemtype", -- [4]
+							"name", -- [5]
+							"category", -- [6]
+							"location", -- [7]
+							"vendorprice", -- [8]
+							"quality", -- [9]
+						},
+					},
+				},
+			},
+			["bugfix"] = {
+				["framelevel"] = {
+					["alert"] = 0,
+				},
+			},
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+			["option"] = {
+				["version"] = 3.0246,
+			},
+		},
+	},
+	["realm"] = {
+		["The Dominion"] = {
+			["player"] = {
+				["version"] = 3.0246,
+				["data"] = {
+					["Archex"] = {
+						["info"] = {
+							["skills"] = {
+							},
+							["money"] = 9848700,
+							["gender"] = 2,
+							["class_local"] = "Warlock",
+							["class"] = "WARLOCK",
+							["player_id"] = "Archex",
+							["race"] = "Human",
+							["name"] = "Archex",
+							["faction"] = "Alliance",
+							["race_local"] = "Human",
+							["level"] = 68,
+							["faction_local"] = "Alliance",
+							["realm"] = "The Dominion",
+						},
+						["location"] = {
+							{
+								["slot_count"] = 16,
+								["bag"] = {
+									{
+										["q"] = 1,
+										["type"] = 1,
+										["count"] = 16,
+										["slot"] = {
+											{
+												["q"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:6948:0:0:0:0:0:0:0:68|h[Hearthstone]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 1,
+												["slot_id"] = 1,
+												["new"] = 1,
+											}, -- [1]
+											{
+												["q"] = 0,
+												["loc_id"] = 1,
+												["slot_id"] = 2,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [2]
+											{
+												["q"] = 0,
+												["loc_id"] = 1,
+												["slot_id"] = 3,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [3]
+											{
+												["q"] = 0,
+												["loc_id"] = 1,
+												["slot_id"] = 4,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [4]
+											{
+												["q"] = 0,
+												["loc_id"] = 1,
+												["slot_id"] = 5,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [5]
+											{
+												["q"] = 0,
+												["loc_id"] = 1,
+												["slot_id"] = 6,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [6]
+											{
+												["q"] = 0,
+												["loc_id"] = 1,
+												["slot_id"] = 7,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [7]
+											{
+												["q"] = 0,
+												["loc_id"] = 1,
+												["slot_id"] = 8,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [8]
+											{
+												["q"] = 0,
+												["loc_id"] = 1,
+												["slot_id"] = 9,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [9]
+											{
+												["q"] = 0,
+												["loc_id"] = 1,
+												["slot_id"] = 10,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [10]
+											{
+												["q"] = 0,
+												["loc_id"] = 1,
+												["slot_id"] = 11,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [11]
+											{
+												["q"] = 0,
+												["loc_id"] = 1,
+												["slot_id"] = 12,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [12]
+											{
+												["q"] = 0,
+												["loc_id"] = 1,
+												["slot_id"] = 13,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [13]
+											{
+												["q"] = 0,
+												["loc_id"] = 1,
+												["slot_id"] = 14,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [14]
+											{
+												["q"] = 0,
+												["loc_id"] = 1,
+												["slot_id"] = 15,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [15]
+											{
+												["q"] = 0,
+												["loc_id"] = 1,
+												["slot_id"] = 16,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [16]
+										},
+										["status"] = -3,
+										["empty"] = 15,
+										["texture"] = "Interface\\Icons\\INV_Misc_Bag_07_Green",
+									}, -- [1]
+									{
+										["q"] = 1,
+										["type"] = 1,
+										["status"] = -4,
+										["texture"] = "Interface\\PaperDoll\\UI-PaperDoll-Slot-Bag",
+									}, -- [2]
+									{
+										["q"] = 1,
+										["type"] = 1,
+										["status"] = -4,
+										["texture"] = "Interface\\PaperDoll\\UI-PaperDoll-Slot-Bag",
+									}, -- [3]
+									{
+										["q"] = 1,
+										["type"] = 1,
+										["status"] = -4,
+										["texture"] = "Interface\\PaperDoll\\UI-PaperDoll-Slot-Bag",
+									}, -- [4]
+									{
+										["q"] = 1,
+										["type"] = 1,
+										["status"] = -4,
+										["texture"] = "Interface\\PaperDoll\\UI-PaperDoll-Slot-Bag",
+									}, -- [5]
+								},
+							}, -- [1]
+							{
+								["slot_count"] = 32,
+								["bag"] = {
+									{
+										["q"] = 1,
+										["type"] = 3,
+										["count"] = 32,
+										["slot"] = {
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 1,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [1]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 2,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [2]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 3,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [3]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 4,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [4]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 5,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [5]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 6,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [6]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 7,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [7]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 8,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [8]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 9,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [9]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 10,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [10]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 11,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [11]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 12,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [12]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 13,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [13]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 14,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [14]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 15,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [15]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 16,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [16]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 17,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [17]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 18,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [18]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 19,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [19]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 20,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [20]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 21,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [21]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 22,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [22]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 23,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [23]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 24,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [24]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 25,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [25]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 26,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [26]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 27,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [27]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 28,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [28]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 29,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [29]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 30,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [30]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 31,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [31]
+											{
+												["q"] = 0,
+												["loc_id"] = 2,
+												["slot_id"] = 32,
+												["sb"] = false,
+												["count"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [32]
+										},
+										["status"] = -3,
+										["empty"] = 32,
+										["texture"] = "Interface\\ContainerFrame\\KeyRing-Bag-Icon",
+									}, -- [1]
+								},
+							}, -- [2]
+							[7] = {
+								["bag"] = {
+									{
+										["type"] = 17,
+										["status"] = -3,
+									}, -- [1]
+								},
+							},
+							[6] = {
+								["slot_count"] = 19,
+								["bag"] = {
+									{
+										["type"] = 14,
+										["count"] = 19,
+										["slot"] = {
+											{
+												["q"] = 0,
+												["loc_id"] = 6,
+												["slot_id"] = 1,
+												["sb"] = false,
+												["count"] = 0,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [1]
+											{
+												["q"] = 0,
+												["loc_id"] = 6,
+												["slot_id"] = 2,
+												["sb"] = false,
+												["count"] = 0,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [2]
+											{
+												["q"] = 0,
+												["loc_id"] = 6,
+												["slot_id"] = 3,
+												["sb"] = false,
+												["count"] = 0,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [3]
+											{
+												["q"] = 0,
+												["loc_id"] = 6,
+												["slot_id"] = 4,
+												["sb"] = false,
+												["count"] = 0,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [4]
+											{
+												["q"] = 0,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+												["h"] = "|cff9d9d9d|Hitem:57:0:0:0:0:0:0:0:68|h[Acolyte's Robe]|h|r",
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 6,
+												["slot_id"] = 5,
+												["new"] = 1,
+											}, -- [5]
+											{
+												["q"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:6097:0:0:0:0:0:0:0:68|h[Acolyte's Shirt]|h|r",
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 6,
+												["slot_id"] = 6,
+												["new"] = 1,
+											}, -- [6]
+											{
+												["q"] = 0,
+												["loc_id"] = 6,
+												["slot_id"] = 7,
+												["sb"] = false,
+												["count"] = 0,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [7]
+											{
+												["q"] = 0,
+												["loc_id"] = 6,
+												["slot_id"] = 8,
+												["sb"] = false,
+												["count"] = 0,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [8]
+											{
+												["q"] = 0,
+												["loc_id"] = 6,
+												["slot_id"] = 9,
+												["sb"] = false,
+												["count"] = 0,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [9]
+											{
+												["q"] = 0,
+												["loc_id"] = 6,
+												["slot_id"] = 10,
+												["sb"] = false,
+												["count"] = 0,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [10]
+											{
+												["q"] = 0,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+												["h"] = "|cff9d9d9d|Hitem:1396:0:0:0:0:0:0:0:68|h[Acolyte's Pants]|h|r",
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 6,
+												["slot_id"] = 11,
+												["new"] = 1,
+											}, -- [11]
+											{
+												["q"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:59:0:0:0:0:0:0:0:68|h[Acolyte's Shoes]|h|r",
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 6,
+												["slot_id"] = 12,
+												["new"] = 1,
+											}, -- [12]
+											{
+												["q"] = 0,
+												["loc_id"] = 6,
+												["slot_id"] = 13,
+												["sb"] = false,
+												["count"] = 0,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [13]
+											{
+												["q"] = 0,
+												["loc_id"] = 6,
+												["slot_id"] = 14,
+												["sb"] = false,
+												["count"] = 0,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [14]
+											{
+												["q"] = 0,
+												["loc_id"] = 6,
+												["slot_id"] = 15,
+												["sb"] = false,
+												["count"] = 0,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [15]
+											{
+												["q"] = 0,
+												["loc_id"] = 6,
+												["slot_id"] = 16,
+												["sb"] = false,
+												["count"] = 0,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [16]
+											{
+												["q"] = 1,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+												["h"] = "|cffffffff|Hitem:35:0:0:0:0:0:0:0:68|h[Bent Staff]|h|r",
+												["count"] = 1,
+												["sb"] = false,
+												["loc_id"] = 6,
+												["slot_id"] = 17,
+												["new"] = 1,
+											}, -- [17]
+											{
+												["q"] = 0,
+												["loc_id"] = 6,
+												["slot_id"] = 18,
+												["sb"] = false,
+												["count"] = 0,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [18]
+											{
+												["q"] = 0,
+												["loc_id"] = 6,
+												["slot_id"] = 19,
+												["sb"] = false,
+												["count"] = 0,
+												["age"] = 27135474,
+												["bag_id"] = 1,
+											}, -- [19]
+										},
+										["status"] = -3,
+										["empty"] = 14,
+									}, -- [1]
+								},
+							},
+							[8] = {
+								["slot_count"] = 1,
+								["bag"] = {
+									{
+										["type"] = 18,
+										["count"] = 1,
+										["slot"] = {
+											{
+												["q"] = 1,
+												["type"] = "MOUNT",
+												["bag_id"] = 1,
+												["age"] = 27135474,
+												["texture"] = "Interface\\Icons\\Spell_Nature_Swiftness",
+												["h"] = "|cff71d5ff|Hspell:5784|h[Felsteed]|h|r",
+												["count"] = 1,
+												["sb"] = true,
+												["loc_id"] = 8,
+												["slot_id"] = 1,
+												["new"] = 1,
+											}, -- [1]
+										},
+										["status"] = -3,
+									}, -- [1]
+								},
+							},
+						},
+					},
+				},
+			},
+		},
+	},
+}

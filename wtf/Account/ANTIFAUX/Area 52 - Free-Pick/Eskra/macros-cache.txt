@@ -1,0 +1,61 @@
+MACRO 16777217 "attack" Ability_Hunter_SwiftStrike
+/startattack
+/petattack
+END
+MACRO 16777221 "CD" Achievement_Faction_BrewMaster
+/cast Adrenaline Rush
+/cast Blade Flurry
+/cast Bloodrage
+/cast Recklessness
+/cast Bloodlust
+/cast Death Wish
+END
+MACRO 16777224 "CD3" 70_inscription_deck_dominion_3
+#showtooltip Bloodrage
+/cast Bloodrage
+/cast Death Wish
+END
+MACRO 16777225 "CD4" 70_inscription_deck_dominion_4
+/castsequence reset=target,4 
+END
+MACRO 16777228 "Defensives" INV_Misc_QuestionMark
+#showtooltip 
+/cast Combat Readiness
+/cast Barkskin
+/cast Divine Protection
+/cast Unending Resolve
+END
+MACRO 16777222 "gap" INV_Misc_QuestionMark
+#showtooltip
+/cast Dragon Charge
+/cast Intercept
+END
+MACRO 16777227 "hot" INV_Misc_QuestionMark
+/castsequence reset=6 Renew, Rejuvenation
+END
+MACRO 16777219 "multi" INV_Misc_QuestionMark
+#showtooltip
+/startattack
+/cast [@target] Cleave
+/cast [@target] Sinister Strike
+END
+MACRO 16777220 "opener" INV_Misc_QuestionMark
+#showtooltip
+/cast Intercept
+/startattack
+END
+MACRO 16777218 "single" INV_Misc_QuestionMark
+#showtooltip
+/startattack [@target]
+/cast [@target] Bloodthirst
+/cast [@target] Cleave
+END
+MACRO 16777229 "Stun" INV_Misc_QuestionMark
+#showtooltip
+/cast [@cursor] Shadowfury
+END
+MACRO 16777226 "totem" INV_Misc_QuestionMark
+#showtooltip
+/castsequence [nomod] reset=10 Magma Totem, Fire Nova
+/cast [mod:shift] Fire Nova
+END

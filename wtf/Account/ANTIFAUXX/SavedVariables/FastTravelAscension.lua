@@ -1,0 +1,4 @@
+
+FTADB = {
+	["showTeleportMarkers"] = true,
+}
