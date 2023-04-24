@@ -1,0 +1,26 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/"   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"   xsi:schemaLocation="http://www.blizzard.com/wow/ui/">
+
+	<!--Ascension Files-->
+	<Script file="AtlasDifficulty.lua"/>
+<!-- 	<Script file="ItemIDsDatabase.lua"/>
+	<Script file="ItemIDsDatabase2.lua"/>
+	<Script file="ItemIDsDatabase3.lua"/> -->
+	
+
+	<!--Default Files-->
+	<Script file="AtlasLoot.lua"/>
+	<Script file="ItemIDsDatabaseFixes.lua"/>
+	<Script file="Filter.lua"/>
+    <Script file="ExtraText.lua"/>
+    <Script file="TextParsing.lua"/>
+    <Script file="Options.lua"/>
+    <Script file="LootButtons.lua"/>
+    <Script file="Atlasloot_Maps.lua"/>
+    <Script file="Launchers.lua"/>
+	<Script file="WishList.lua"/>
+	<Script file="SearchAdvanced.lua"/>
+    <Script file="Search.lua"/>
+	
+    <GameTooltip name="AtlasLootTooltip" inherits="GameTooltipTemplate" parent="UIParent" hidden="true"/>
+</Ui>
+

@@ -1,0 +1,29 @@
+## Interface: 30300
+## Title: Mystic Maestro
+## Author: polihayse, bandit
+## Version: 1.0.0
+## Notes: Auction house automation addon for mystic enchants
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: MysticMaestroDB, MysticMaestroData
+
+Libs\embeds.xml
+utils\database.lua
+MysticMaestro.lua
+utils\common.lua
+utils\auction.lua
+utils\tooltip.lua
+utils\menu.lua
+utils\settings.lua
+utils\graph.lua
+utils\reforge.lua
+REMenu.lua
+AHMenuExtension.lua
+automation\AutomationManager.lua
+automation\automationCommon.lua
+automation\functions\scan.lua
+automation\functions\getallscan.lua
+automation\functions\post.lua
+automation\functions\cancel.lua
+automation\functions\undercut.lua
+automation\functions\craft.lua
